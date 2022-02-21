@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mironshoh Safarov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate with teachers
 - 📫 How to reach me : +99899-700-1676 ; insta & telegram.me/Mironshoh_Safarov
 
